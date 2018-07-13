@@ -33,7 +33,7 @@
 ```
 
 #659CC3
-##96E452
+#96E452
 
 ```
 
@@ -57,7 +57,6 @@
 // css
 h1, h2, h3, h4, h5 {
     font-family: 'Poppins', sans-serif;
-    color: #242A53;
 }
 @media screen {
     h1 {
@@ -91,6 +90,30 @@ h1, h2, h3, h4, h5 {
     }
     h5 {
         font-size: 20pt;
+    }
+}
+```
+
+#### Paragraphs
+
+
+![paragraphs](https://raw.githubusercontent.com/frameworkless-movement/frameworkless-visual-identity/master/doc/p.png)
+
+
+
+```
+// css
+p {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+@media screen {
+    p {
+        font-size: 14px;
+    }
+}
+@media print {
+    h1 {
+        font-size: 14pt;
     }
 }
 ```
