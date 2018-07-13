@@ -15,30 +15,27 @@
 
 #### Chromatic Palette
 
+![colors](https://raw.githubusercontent.com/frameworkless-movement/frameworkless-visual-identity/master/doc/colors.png)
+
 ##### Primary Colors
 
-<div style="display: flex;">
-    <div style="padding: 20px 30px; color: #ffffff; flex: 0 0 120px; background-color: #242A53;">
-        #242A53
-    </div>
-    <div style="padding: 20px 30px; color: #ffffff; flex: 0 0 120px; background-color: #245B62;">
-        #245B62
-    </div>
-    <div style="padding: 20px 30px; color: #ffffff; flex: 0 0 120px; background-color: #63CB9D;">
-        #63CB9D
-    </div>
-</div>
+```
+
+#242A53 
+#245B62
+#63CB9D
+
+```
+
 
 ##### Secondary Colors
 
-<div style="display: flex;">
-    <div style="padding: 20px 30px; color: #ffffff; flex: 0 0 120px; background-color: #659CC3;">
-        #659CC3
-    </div>
-    <div style="padding: 20px 30px; color: #ffffff; flex: 0 0 120px; background-color: #96E452;">
-        #96E452
-    </div>
-</div>
+```
+
+#659CC3
+##96E452
+
+```
 
 
 ### Typography
@@ -57,7 +54,7 @@
 
 
 ```
-css
+// css
 h1, h2, h3, h4, h5 {
     font-family: 'Poppins', sans-serif;
     color: #242A53;
