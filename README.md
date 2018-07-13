@@ -45,9 +45,9 @@
 
 
 | Role      | Font     |
-| --------- | ---------|
-| Highlight | [Poppins Font](https://fonts.google.com/specimen/Poppins, "Poppins") |
-| Paragraph | [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans, "IBM Plex Sans") |
+| :--------- | :---------|
+| Highlight | [Poppins Font](https://fonts.google.com/specimen/Poppins "Poppins") |
+| Paragraph | [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans "IBM Plex Sans") |
 
 #### Headings
 
