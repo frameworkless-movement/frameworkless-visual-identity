@@ -48,7 +48,7 @@
 #### Headings
 
 
-![headers](https://github.com/frameworkless-movement/frameworkless-visual-identity/tree/master/doc/h.png)
+![headers](https://raw.githubusercontent.com/frameworkless-movement/frameworkless-visual-identity/master/doc/h.png)
 
 [Poppins Font](https://fonts.google.com/specimen/Poppins, "Poppins")
 
@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5 {
     font-family: 'Poppins', sans-serif;
     color: #242A53;
 }
-@media print {
+@media screen {
     h1 {
         font-size: 48px;
     }
@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5 {
         font-size: 20px;
     }
 }
-@media screen {
+@media print {
     h1 {
         font-size: 48pt;
     }
